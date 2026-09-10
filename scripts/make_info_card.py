@@ -4,7 +4,7 @@ from pathlib import Path
 def generate_info_card():
     static = os.environ.get("STATIC", "0") == "1"
     
-    title = "avi@github"
+    title = "daksh043@github"
     separator = "-" * len(title)
     
     fields = [

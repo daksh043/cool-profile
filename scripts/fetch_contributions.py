@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 from datetime import datetime
 
-USERNAME = "AVIVASHISHTA29"
+USERNAME = "daksh043"
 
 def fetch_contributions():
     url = f"https://github.com/users/{USERNAME}/contributions"

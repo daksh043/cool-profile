@@ -19,8 +19,8 @@
         }
     </style>
     <rect width="490" height="500" fill="transparent" />
-    <text class="text title row" x="20" y="40" style="animation-delay: 0.1s">avi@github</text>
-    <text class="text row" x="20" y="64" style="animation-delay: 0.2s">----------</text>
+    <text class="text title row" x="20" y="40" style="animation-delay: 0.1s">daksh043@github</text>
+    <text class="text row" x="20" y="64" style="animation-delay: 0.2s">---------------</text>
     <g class="row" style="animation-delay: 0.3s">
         <text class="text" x="20" y="112" fill="#58a6ff" font-weight="bold">OS</text>
         <text class="text" x="120" y="112">: Windows 11 / Linux</text>
