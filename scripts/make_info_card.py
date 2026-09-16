@@ -11,7 +11,7 @@ def generate_info_card():
         ("OS", "Windows 11 / Linux", "#58a6ff"),
         ("Host", "GitHub Profile", "#58a6ff"),
         ("Now", "Building cool things", "#3fb950"),
-        ("Prev", "Software Engineer at TechCorp", "#d2a8ff"),
+        ("Prev", "Student at Universal AI University", "#d2a8ff"),
         ("Stack", "Python, React, TypeScript", "#ff7b72"),
         ("Highlights", "Shipped 10+ projects, open-source contributor", "#f0883e"),
     ]
